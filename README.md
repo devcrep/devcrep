@@ -2,7 +2,7 @@
 - 👀 I’m interested in webdev, ml, web3
 - 🌱 I’m currently learning web3
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me 192004aditya@gmail.com
 
 <!---
 devcrep/devcrep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
